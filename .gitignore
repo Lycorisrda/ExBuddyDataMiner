@@ -1,0 +1,7 @@
+*.zip
+/ExBuddyDataMiner/bin
+/ExBuddyDataMiner/obj
+/rblib/db.s3db
+/rblib/RebornBuddy.exe
+/_ReSharper.Caches
+/packages
